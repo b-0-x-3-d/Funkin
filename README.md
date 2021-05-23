@@ -2,9 +2,9 @@
 
 This is the repository for Future Funk, a mod for FNF.
 
-Play the FNF Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
-Play the FNF Newgrounds one here: https://www.newgrounds.com/portal/view/770371
-Support the original game on the itch.io page: https://ninja-muffin24.itch.io/funkin
+- Play the FNF Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
+- Play the FNF Newgrounds one here: https://www.newgrounds.com/portal/view/770371
+- Support the original game on the itch.io page: https://ninja-muffin24.itch.io/funkin
 
 ## Credits / shoutouts
 
