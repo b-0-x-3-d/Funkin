@@ -16,7 +16,7 @@ Makers:
 
 Modders:
 
-- [_Boxed] - Creator
+- b-0-x-3-d - Creator
 
 This mod aims to see after the events of FNF.
 
